@@ -16,7 +16,7 @@ It has the following:
 
 This is a visualisation of a pretty basic backtracking solver, you can control the direction to one of the four available.
 
-![backtracking.gif](/images/backtracking.gif)
+![backtracker.gif](/images/backtracker.gif)
 
 ## Simulated Annealing
 
