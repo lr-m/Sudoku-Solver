@@ -113,7 +113,7 @@ void draw() {
 
     fill(225);
     noStroke();
-    rect(width/2 - 50, 120, width/2 + 25, height-350);
+    rect(width/2 - 50, 118, width/2 + 25, height-350);
     textSize(20);
     fill(0);
     text("Iterations Per Frame: " + speed, width - 350, 125);
